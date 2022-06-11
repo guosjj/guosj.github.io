@@ -3,9 +3,9 @@
 		<router-view/>
 	</div>
 </template>
-
-<script>
 <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"/>
+<script>
+
 	export default {
 		name: 'app'
 	}
